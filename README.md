@@ -11,7 +11,7 @@ to connect to our IRC network at irc.oftc.net.
 Support
 -------
 
-Stop by on *#oftc* or mail *support at oftc.net* if you have any questions
+Stop by on *#oftc* or mail *support@oftc.net* if you have any questions
 regarding operation of the network.
 
 Use this GitHub repository to report general issues with OFTC that are not
